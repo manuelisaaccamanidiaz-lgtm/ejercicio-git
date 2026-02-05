@@ -1,2 +1,2 @@
 # ejercicio-git
-    primer commir en el readme
+    primer commit en el readme
